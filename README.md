@@ -103,6 +103,6 @@ Entrega realizada conforme os critérios exigidos no desafio Robocup – Challen
 ## 🌐 Link da página hospedada
 
 Acesse a landing page publicada:  
-🔗 
+🔗 https://cassiaemanuelly.github.io/Valentron/
 
 **Desenvolvido com dedicação pela equipe CyberSquad 💙**
